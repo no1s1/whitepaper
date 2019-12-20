@@ -1,4 +1,4 @@
-# no1s1 - A house owned by noone but itself
+# no1s1 - A house owned by no one but itself
 
 ## Abstract
 
